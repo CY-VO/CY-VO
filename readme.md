@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="center">Hello World!!<br><br>we are CYVO team</p>
+<p align="center">Hello World!!<br><br>we are CY-VO team</p>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Founder of CYVO</p>
+<p align="left">Founder of CY-VO</p>
 
 ###
 
